@@ -6,4 +6,4 @@ https://youtu.be/ddLuZXs8Uyw
 Video how to deploy it:
 https://youtu.be/E1dqffpUlMA
 ## Credits
-Template was created by Tenzin Phuljung and edited by Jakob Wolitzki.
+this is my portifolio website by harrison mutale
