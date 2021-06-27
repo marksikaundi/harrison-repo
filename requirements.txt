@@ -1,0 +1,7 @@
+we will be using mern for our learning build in js and react native
+________________________
+M mongodb
+E express
+R  react
+N  node.js
+________________________
